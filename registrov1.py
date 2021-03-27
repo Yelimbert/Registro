@@ -1,6 +1,6 @@
 import io
 
-space = "\n"
+line = "\n"
 datos = []
 reg = open("registro.txt", "a")
 
